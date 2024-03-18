@@ -12,9 +12,9 @@
 }
 
 .button {
-  background-color: teal;
+  background-color: green;
   border: 1px solid black;
-  color: white;
+  color: black;
   width: 50%;
   font-size: inherit;
   margin: 15px 0;
